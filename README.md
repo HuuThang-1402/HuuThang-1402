@@ -1,5 +1,5 @@
-### Hi I'm Thang!!! 👋
-# Here are some things about myself
+# Hi I'm Thang!!! 👋
+### Here are some things about myself
 - 🔭 I’m currently working on ... Ho Chi Minh University of Technology
 - 🌱 I’m currently learning ... ML/DL, Data Science, Web, ...
 - 👯 I’m looking to collaborate on ... every company about AI
