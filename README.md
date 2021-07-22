@@ -2,9 +2,9 @@
 ### :blush: Here are some things about myself
 - 🔭 I’m currently working on : Ho Chi Minh University of Technology
 - 🌱 I’m currently learning : ML/DL, Data Science, Web, ...
-- 👯 I’m looking to collaborate on : every companies about AI
-- 🤔 I’m looking for help with : everything in life
-- 💬 Ask me about : anything 
+- 👯 I’m looking to collaborate on : All companies about AI
+- 🤔 I’m looking for help with : Everything in life
+- 💬 Ask me about : Anything 
 - 📫 How to reach me : [Facebook](https://www.facebook.com/thang.huu.94651774)
 - :+1: Fun fact : I :heart: astronomy so much. Every day, I spend at least 30 minutes on watching videos about the universe. 
 
