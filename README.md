@@ -1,4 +1,4 @@
-# Hi I'm Thang!!! 👋
+# Hi I'm Thang!!! :wave:
 ### :blush: Here are some things about myself
 - 🔭 I’m currently working on ... Ho Chi Minh University of Technology
 - 🌱 I’m currently learning ... ML/DL, Data Science, Web, ...
@@ -8,7 +8,7 @@
 - 📫 How to reach me: ... [Facebook](https://www.facebook.com/thang.huu.94651774)
 - ⚡ Fun fact: ... I love astronomy so much. Every day, I spend at least 30 minutes on watching videos about the universe. 
 
-### :zap: GitHub Stats
+### :dragon: GitHub Stats
 
 <table>
 <tr>
