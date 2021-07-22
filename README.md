@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... everything in life
 - 💬 Ask me about ... anything 
 - 📫 How to reach me: ... [FaceBook](https://www.facebook.com/thang.huu.94651774)
-- ⚡ Fun fact: ... I love astronomy <img align="center" alt="Visual Studio Code" width="50px" src="https://khoahocphattrien.vn/Images/Uploaded/Share/2016/01/03/Nhung-hinh-anh-thien-van-ky-thu-nhat-nam-2015_1.jpg" />
+- ⚡ Fun fact: ... I love astronomy so much. Every day, I spend at least 30 minutes on watching videos about the universe. 
 
 ### :zap: GitHub Stats
 
