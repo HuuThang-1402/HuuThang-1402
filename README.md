@@ -1,9 +1,5 @@
 ### Hi I'm Thang!!! 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Ho Chi Minh University of Technology
 - 🌱 I’m currently learning ... ML/DL, Data Science, Web, ...
 - 👯 I’m looking to collaborate on ... every company about AI
