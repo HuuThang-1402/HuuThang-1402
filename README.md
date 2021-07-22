@@ -6,9 +6,9 @@
 - 🤔 I’m looking for help with ... everything in life
 - 💬 Ask me about ... anything 
 - 📫 How to reach me: ... [Facebook](https://www.facebook.com/thang.huu.94651774)
-- ⚡ Fun fact: ... I love astronomy so much. Every day, I spend at least 30 minutes on watching videos about the universe. 
+- :+1: Fun fact: ... I :heart: astronomy so much. Every day, I spend at least 30 minutes on watching videos about the universe. 
 
-### :dragon: GitHub Stats
+### :zap: GitHub Stats
 
 <table>
 <tr>
