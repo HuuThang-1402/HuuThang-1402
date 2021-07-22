@@ -1,7 +1,6 @@
 ### Hi I'm Thang!!! 👋
 
-<!--
-**HuuThang-1402/HuuThang-1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything 
 - 📫 How to reach me: ... [FaceBook](https://www.facebook.com/thang.huu.94651774)
 - ⚡ Fun fact: ... I love astronomy ![universe](https://cdnimg.vietnamplus.vn/uploaded/xtsqr/2018_12_27/dnsukienthienvantin0301183.jpg)
--->
+
