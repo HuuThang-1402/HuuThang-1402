@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... every company about AI
 - 🤔 I’m looking for help with ... everything in life
 - 💬 Ask me about ... anything 
-- 📫 How to reach me: ... [FaceBook](https://www.facebook.com/thang.huu.94651774)
+- 📫 How to reach me: ... [Facebook](https://www.facebook.com/thang.huu.94651774)
 - ⚡ Fun fact: ... I love astronomy so much. Every day, I spend at least 30 minutes on watching videos about the universe. 
 
 ### :zap: GitHub Stats
