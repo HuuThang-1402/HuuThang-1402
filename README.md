@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with : Everything in life
 - 💬 Ask me about : Anything 
 - 📫 How to reach me : [Facebook](https://www.facebook.com/thang.huu.94651774)
-- :+1: Fun fact : I :heart: astronomy so much.
+- :+1: Fun fact : I :heart: astronomy so much
 
 ### :zap: GitHub Stats
 
